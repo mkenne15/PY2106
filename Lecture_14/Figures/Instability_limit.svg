@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="Instability_limit.svg"
-   inkscape:export-filename="/home/kennedy/Teaching/PY3109/Lecture_9/Images/Mean_Path_Length.png"
+   inkscape:export-filename="/home/kennedy/Teaching/PY2106/Lecture_14/Figures/Instability_limit.png"
    inkscape:export-xdpi="108.142"
    inkscape:export-ydpi="108.142"
    style="enable-background:new">
@@ -466,7 +466,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="320.10046"
+     inkscape:cx="220.09536"
      inkscape:cy="89.029892"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -485,7 +485,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

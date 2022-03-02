@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="Centripetal_motion.svg"
-   inkscape:export-filename="/home/kennedy/Teaching/PY3109/Lecture_9/Images/Mean_Path_Length.png"
+   inkscape:export-filename="/home/kennedy/Teaching/PY2106/Lecture_14/Figures/Centripetal_motion.png"
    inkscape:export-xdpi="108.142"
    inkscape:export-ydpi="108.142"
    style="enable-background:new">
@@ -371,9 +371,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="118.92841"
-     inkscape:cy="140.06427"
+     inkscape:zoom="1.979899"
+     inkscape:cx="152.25414"
+     inkscape:cy="78.64323"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -391,7 +391,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
